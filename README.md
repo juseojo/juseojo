@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @juseojo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+HI I'm juseojo.
 
-<!---
-juseojo/juseojo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am attending Korea National University of Transportation since 2016.
+
+My major is computer information engineering
+
+I was 42seoul cardet from November 2021 to October 22,
+
+I'm trying to become Ios Dev.
+
+If you want send massage, it can help that ---> j86371224@gmail.com
