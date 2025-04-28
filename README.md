@@ -20,6 +20,6 @@ My major is computer information engineering
 
 I was 42seoul cardet from November 2021 to October 22,
 
-I'm trying to become IOS app Dev.
+I'm trying to become iOS app Dev.
 
 If you want send massage, it can help that ---> j86371224@gmail.com
